@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="assignment 1" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="issueCheque" />
+    <module name="Assignment 1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
